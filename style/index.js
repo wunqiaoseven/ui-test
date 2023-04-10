@@ -1,4 +1,3 @@
-import 'vant/lib/index.css';
 // Toast
 import 'vant/es/toast/style';
 // Dialog
